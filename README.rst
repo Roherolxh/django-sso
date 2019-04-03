@@ -1,0 +1,1 @@
+settings.py为testsso的参考配置，testsso为django项目的一个app
