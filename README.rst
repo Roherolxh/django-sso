@@ -1,1 +1,3 @@
-settings.py为testsso的参考配置，testsso为django项目的一个app
+#settings.py为testsso的参考配置，
+#testsso为django项目的一个app作为客户端使用
+#opstest01为django项目可以直接使用
